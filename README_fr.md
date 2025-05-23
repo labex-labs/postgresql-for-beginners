@@ -30,22 +30,22 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                                       |
-|---------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Installation et configuration initiale de PostgreS... | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900'>Commencer le Lab</a>    |
-|      02 | 🎯 Vérifier les détails de connexion PostgreSQL          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-verify-postgresql-connection-details-551083'>Commencer le Défi</a>           |
-|      03 | 📖 Bases de la gestion de bases de données avec Postg... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-database-management-basics-with-postgresql-550899'>Commencer le Lab</a>      |
-|      04 | 🎯 Créez votre propre base de données de recettes        | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-create-your-own-recipe-database-551100'>Commencer le Défi</a>                |
-|      05 | 📖 Création de tables et types de données dans Postgr... | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-postgresql-table-creation-and-data-types-550901'>Commencer le Lab</a>        |
-|      06 | 🎯 Créer une table Employee (Employé) dans PostgreSQL    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-create-employee-table-in-postgresql-551115'>Commencer le Défi</a>            |
-|      07 | 📖 Opérations de base sur les données dans PostgreSQL    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-basic-data-operations-in-postgresql-550897'>Commencer le Lab</a>             |
-|      08 | 🎯 Gérer les données des employés dans PostgreSQL        | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-manage-employee-data-in-postgresql-551130'>Commencer le Défi</a>             |
-|      09 | 📖 Filtrage de données et requêtes simples dans Postg... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898'>Commencer le Lab</a> |
-|      10 | 🎯 Trouver les employés du département Marketing dans... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-find-marketing-employees-in-postgresql-551146'>Commencer le Défi</a>         |
+|   Index | Nom                                                      | Difficulté    | Pratique                                                                                                                                       |
+|---------|----------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Installation et configuration initiale de PostgreS... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900'>Commencer le Lab</a>    |
+|      02 | 🎯 Vérifier les détails de connexion PostgreSQL          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-verify-postgresql-connection-details-551083'>Commencer le Défi</a>           |
+|      03 | 📖 Bases de la gestion de bases de données avec Postg... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-database-management-basics-with-postgresql-550899'>Commencer le Lab</a>      |
+|      04 | 🎯 Créez votre propre base de données de recettes        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-create-your-own-recipe-database-551100'>Commencer le Défi</a>                |
+|      05 | 📖 Création de tables et types de données dans Postgr... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-postgresql-table-creation-and-data-types-550901'>Commencer le Lab</a>        |
+|      06 | 🎯 Créer une table Employee (Employé) dans PostgreSQL    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-create-employee-table-in-postgresql-551115'>Commencer le Défi</a>            |
+|      07 | 📖 Opérations de base sur les données dans PostgreSQL    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-basic-data-operations-in-postgresql-550897'>Commencer le Lab</a>             |
+|      08 | 🎯 Gérer les données des employés dans PostgreSQL        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-manage-employee-data-in-postgresql-551130'>Commencer le Défi</a>             |
+|      09 | 📖 Filtrage de données et requêtes simples dans Postg... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898'>Commencer le Lab</a> |
+|      10 | 🎯 Trouver les employés du département Marketing dans... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/postgresql-find-marketing-employees-in-postgresql-551146'>Commencer le Défi</a>         |
 
 ## Plus
 
-- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- 🔗 [Data Science Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Data Science Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Data Science Tutoriels Gratuits](https://github.com/labex-labs/data-science-free-tutorials)
 
