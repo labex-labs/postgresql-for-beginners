@@ -32,20 +32,20 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                           | 난이도   | 연습                                                                                                                                    |
 |----------|------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 PostgreSQL 설치 및 초기 설정                | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900'>실습 시작</a>    |
-|       02 | 🎯 PostgreSQL 연결 세부 정보 확인              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-verify-postgresql-connection-details-551083'>도전 시작</a>            |
-|       03 | 📖 PostgreSQL 을 이용한 데이터베이스 관리 기본 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-database-management-basics-with-postgresql-550899'>실습 시작</a>      |
-|       04 | 🎯 나만의 레시피 데이터베이스 만들기           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-create-your-own-recipe-database-551100'>도전 시작</a>                 |
-|       05 | 📖 PostgreSQL 테이블 생성 및 데이터 유형       | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-table-creation-and-data-types-550901'>실습 시작</a>        |
-|       06 | 🎯 PostgreSQL 에서 직원 테이블 생성            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-create-employee-table-in-postgresql-551115'>도전 시작</a>             |
-|       07 | 📖 PostgreSQL 기본 데이터 연산                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-basic-data-operations-in-postgresql-550897'>실습 시작</a>             |
-|       08 | 🎯 PostgreSQL 에서 직원 데이터 관리            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-manage-employee-data-in-postgresql-551130'>도전 시작</a>              |
-|       09 | 📖 PostgreSQL 데이터 필터링 및 간단한 쿼리     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898'>실습 시작</a> |
-|       10 | 🎯 PostgreSQL 에서 마케팅 직원 찾기            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-find-marketing-employees-in-postgresql-551146'>도전 시작</a>          |
+|       01 | 📖 PostgreSQL 설치 및 초기 설정                | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900'>실습 시작</a>    |
+|       02 | 🎯 PostgreSQL 연결 세부 정보 확인              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-verify-postgresql-connection-details-551083'>도전 시작</a>            |
+|       03 | 📖 PostgreSQL 을 이용한 데이터베이스 관리 기본 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-database-management-basics-with-postgresql-550899'>실습 시작</a>      |
+|       04 | 🎯 나만의 레시피 데이터베이스 만들기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-create-your-own-recipe-database-551100'>도전 시작</a>                 |
+|       05 | 📖 PostgreSQL 테이블 생성 및 데이터 유형       | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-postgresql-table-creation-and-data-types-550901'>실습 시작</a>        |
+|       06 | 🎯 PostgreSQL 에서 직원 테이블 생성            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-create-employee-table-in-postgresql-551115'>도전 시작</a>             |
+|       07 | 📖 PostgreSQL 기본 데이터 연산                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-basic-data-operations-in-postgresql-550897'>실습 시작</a>             |
+|       08 | 🎯 PostgreSQL 에서 직원 데이터 관리            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-manage-employee-data-in-postgresql-551130'>도전 시작</a>              |
+|       09 | 📖 PostgreSQL 데이터 필터링 및 간단한 쿼리     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898'>실습 시작</a> |
+|       10 | 🎯 PostgreSQL 에서 마케팅 직원 찾기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/postgresql-find-marketing-employees-in-postgresql-551146'>도전 시작</a>          |
 
 ## 더 보기
 
-- 🔗 [Data Science Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Data Science Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- 🔗 [Data Science 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Data Science 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Data Science 무료 튜토리얼](https://github.com/labex-labs/data-science-free-tutorials)
 
