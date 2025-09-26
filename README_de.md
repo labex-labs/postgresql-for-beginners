@@ -16,18 +16,18 @@ In diesem Kurs lernen Sie die Grundlagen von PostgreSQL, von der Installation bi
 
 ## Übungen
 
-|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                       |
-|---------|----------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 Installation und Erstkonfiguration von PostgreSQL  | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900'>Labor Starten</a>    |
-|      02 | 🎯 🟢 PostgreSQL-Verbindungsdetails überprüfen           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-verify-postgresql-connection-details-551083'>Challenge Starten</a>        |
-|      03 | 📖 🟢 Grundlagen der Datenbankverwaltung mit PostgreSQL  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-database-management-basics-with-postgresql-550899'>Labor Starten</a>      |
-|      04 | 🎯 🟢 Erstellen Sie Ihre eigene Rezeptdatenbank          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-create-your-own-recipe-database-551100'>Challenge Starten</a>             |
-|      05 | 📖 🟢 PostgreSQL Tabellenerstellung und Datentypen       | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-table-creation-and-data-types-550901'>Labor Starten</a>        |
-|      06 | 🎯 🟢 Erstellung einer Mitarbeitertabelle in PostgreSQL  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-create-employee-table-in-postgresql-551115'>Challenge Starten</a>         |
-|      07 | 📖 🟢 Grundlegende Datenoperationen in PostgreSQL        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-basic-data-operations-in-postgresql-550897'>Labor Starten</a>             |
-|      08 | 🎯 🟢 Mitarbeiterdaten in PostgreSQL verwalten           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-manage-employee-data-in-postgresql-551130'>Challenge Starten</a>          |
-|      09 | 📖 🟢 Datenfilterung und einfache Abfragen in PostgreSQL | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898'>Labor Starten</a> |
-|      10 | 🎯 🟢 Marketing-Mitarbeiter in PostgreSQL finden         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-find-marketing-employees-in-postgresql-551146'>Challenge Starten</a>      |
+|   Index | Name                                                    | Schwierigkeit   | Übung                                                                                                                                       |
+|---------|---------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🆓 Installation und Erstkonfiguration von PostgreSQL | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-installation-and-initial-setup-of-postgresql-550900'>Labor Starten</a>    |
+|      02 | 🎯 🆓 PostgreSQL-Verbindungsdetails überprüfen          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-verify-postgresql-connection-details-551083'>Challenge Starten</a>        |
+|      03 | 📖 🆓 Grundlagen der Datenbankverwaltung mit PostgreSQL | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-database-management-basics-with-postgresql-550899'>Labor Starten</a>      |
+|      04 | 🎯 🆓 Erstellen Sie Ihre eigene Rezeptdatenbank         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-create-your-own-recipe-database-551100'>Challenge Starten</a>             |
+|      05 | 📖 🆓 PostgreSQL Tabellenerstellung und Datentypen      | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-postgresql-table-creation-and-data-types-550901'>Labor Starten</a>        |
+|      06 | 🎯  Erstellung einer Mitarbeitertabelle in PostgreSQL   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-create-employee-table-in-postgresql-551115'>Challenge Starten</a>         |
+|      07 | 📖  Grundlegende Datenoperationen in PostgreSQL         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-basic-data-operations-in-postgresql-550897'>Labor Starten</a>             |
+|      08 | 🎯  Mitarbeiterdaten in PostgreSQL verwalten            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-manage-employee-data-in-postgresql-551130'>Challenge Starten</a>          |
+|      09 | 📖  Datenfilterung und einfache Abfragen in PostgreSQL  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-data-filtering-and-simple-queries-in-postgresql-550898'>Labor Starten</a> |
+|      10 | 🎯  Marketing-Mitarbeiter in PostgreSQL finden          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/postgresql-find-marketing-employees-in-postgresql-551146'>Challenge Starten</a>      |
 
 ## Umgebung
 
