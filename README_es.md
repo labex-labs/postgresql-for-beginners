@@ -1,41 +1,33 @@
 # PostgreSQL para Principiantes
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![PostgreSQL para Principiantes](https://cover-creator.labex.io/postgresql-for-beginners.png?lang=es)](https://labex.io/es/courses/postgresql-for-beginners)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/postgresql-for-beginners)
+<p align="center">
+  <a href="https://labex.io/es/courses/postgresql-for-beginners">
+    <img src="https://course-cover.labex.io/postgresql-for-beginners.png?lang=es" alt="PostgreSQL para Principiantes">
+  </a>
+</p>
 
 En este curso, aprende los conceptos básicos de PostgreSQL desde la instalación hasta las operaciones de datos, incluyendo la gestión de bases de datos, la creación de tablas y consultas simples.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-whitesmoke?style=for-the-badge&logo=postgresql)
-![Database](https://img.shields.io/badge/Database-whitesmoke?style=for-the-badge&logo=database)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/postgresql-for-beginners)
 
 ## Ejercicios
 
-|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                                                     |
-|----------|-------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🧩 🆓 Instalación y configuración inicial de PostgreSQL     | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/postgresql-installation-and-initial-setup-of-postgresql-550900?course=postgresql-for-beginners'>Iniciar Laboratorio</a>    |
-|       02 | 🎯 🆓 Verificar los detalles de conexión de PostgreSQL      | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-verify-postgresql-connection-details-551083?course=postgresql-for-beginners'>Iniciar Desafío</a>                |
-|       03 | 🧩 🆓 Fundamentos de la Gestión de Bases de Datos con Po... | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-database-management-basics-with-postgresql-550899?course=postgresql-for-beginners'>Iniciar Laboratorio</a>      |
-|       04 | 🎯 🆓 Crea tu propia base de datos de recetas               | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-create-your-own-recipe-database-551100?course=postgresql-for-beginners'>Iniciar Desafío</a>                     |
-|       05 | 🧩 🆓 Creación de Tablas y Tipos de Datos en PostgreSQL     | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/postgresql-postgresql-table-creation-and-data-types-550901?course=postgresql-for-beginners'>Iniciar Laboratorio</a>        |
-|       06 | 🎯  Crear Tabla de Empleados en PostgreSQL                  | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-create-employee-table-in-postgresql-551115?course=postgresql-for-beginners'>Iniciar Desafío</a>                 |
-|       07 | 🧩  Operaciones básicas de datos en PostgreSQL              | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-basic-data-operations-in-postgresql-550897?course=postgresql-for-beginners'>Iniciar Laboratorio</a>             |
-|       08 | 🎯  Gestionar Datos de Empleados en PostgreSQL              | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-manage-employee-data-in-postgresql-551130?course=postgresql-for-beginners'>Iniciar Desafío</a>                  |
-|       09 | 🧩  Filtrado de Datos y Consultas Simples en PostgreSQ...   | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-data-filtering-and-simple-queries-in-postgresql-550898?course=postgresql-for-beginners'>Iniciar Laboratorio</a> |
-|       10 | 🎯  Encontrar Empleados de Marketing en PostgreSQL          | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-find-marketing-employees-in-postgresql-551146?course=postgresql-for-beginners'>Iniciar Desafío</a>              |
+|   Índice | Nombre                                                | Dificultad   | Práctica                                                                                                                                                      |
+|----------|-------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | Instalación y configuración inicial de PostgreSQL     | Principiante | <a target='_blank' href='https://labex.io/es/labs/installation-and-initial-setup-of-postgresql-550900?course=postgresql-for-beginners'>Iniciar lab</a>        |
+|       02 | Verificar los detalles de conexión de PostgreSQL      | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/postgresql-verify-postgresql-connection-details-551083?course=postgresql-for-beginners'>Iniciar desafío</a> |
+|       03 | Fundamentos de la Gestión de Bases de Datos con Po... | Principiante | <a target='_blank' href='https://labex.io/es/labs/database-management-basics-with-postgresql-550899?course=postgresql-for-beginners'>Iniciar lab</a>          |
+|       04 | Crea tu propia base de datos de recetas               | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/postgresql-create-your-own-recipe-database-551100?course=postgresql-for-beginners'>Iniciar desafío</a>      |
+|       05 | Creación de Tablas y Tipos de Datos en PostgreSQL     | Principiante | <a target='_blank' href='https://labex.io/es/labs/postgresql-table-creation-and-data-types-550901?course=postgresql-for-beginners'>Iniciar lab</a>            |
+|       06 | Crear la tabla de empleados en PostgreSQL             | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/postgresql-create-employee-table-in-postgresql-551115?course=postgresql-for-beginners'>Iniciar desafío</a>  |
+|       07 | Operaciones básicas de datos en PostgreSQL            | Principiante | <a target='_blank' href='https://labex.io/es/labs/basic-data-operations-in-postgresql-550897?course=postgresql-for-beginners'>Iniciar lab</a>                 |
+|       08 | Gestión de Datos de Empleados en PostgreSQL           | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/postgresql-manage-employee-data-in-postgresql-551130?course=postgresql-for-beginners'>Iniciar desafío</a>   |
+|       09 | Filtrado de Datos y Consultas Simples en PostgreSQ... | Principiante | <a target='_blank' href='https://labex.io/es/labs/data-filtering-and-simple-queries-in-postgresql-550898?course=postgresql-for-beginners'>Iniciar lab</a>     |
+|       10 | Búsqueda de Empleados de Marketing en PostgreSQL      | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/find-marketing-employees-in-postgresql-551146?course=postgresql-for-beginners'>Iniciar desafío</a>          |
 
-## Acerca de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [Data Science Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Data Science Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Data Science Tutoriales Gratuitos](https://github.com/labex-labs/data-science-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
